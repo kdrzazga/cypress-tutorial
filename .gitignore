@@ -1,0 +1,11 @@
+*.log.*
+dist-*
+build
+.history
+.publish
+_test-output
+cypress.zip
+.babel-cache
+
+# from config, compiled .js files
+packages/config/src/*.js
